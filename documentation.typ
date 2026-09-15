@@ -27,7 +27,7 @@ In this report, calculations for the design of scaffolding is presented. It incl
 #image("resources-typst/samplephoto.webp", width: auto, height: 3cm)
 )
 ]
-
+*hello this is a wild yurika appearing* jahskjdhkjdhajkshdja
 
 As shown in , the scaffolding design must account for various factors including load distribution, member strength, and safety regulations. The calculations will ensure that the scaffolding can support the intended loads without failure @souder2014temporary.
 
@@ -35,6 +35,8 @@ As shown in , the scaffolding design must account for various factors including 
 #bibliography("bib-typst/scholar.bib",style:"apa")
 
 $Q=rho A v + c$
+
+
 
 
 
